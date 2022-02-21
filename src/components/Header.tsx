@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 /* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
@@ -70,7 +71,7 @@ export function Header() {
                     <img
                       className="h-8 w-auto sm:h-10"
                       src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
-                      alt=""
+                      alt="image"
                     />
                   </a>
                   <div className="-mr-2 flex items-center md:hidden">
@@ -83,6 +84,7 @@ export function Header() {
               </div>
               <div className="hidden md:flex md:space-x-10">
                 {navigation.map((item) => (
+                  // eslint-disable-next-line react/jsx-key
                   <Link href={item.href}>
                     <a key={item.name} className="font-medium text-gray-500 hover:text-gray-900">
                       {item.name}
