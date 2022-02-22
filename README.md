@@ -36,7 +36,7 @@
   - Projeto seguindo parâmetros Jamstack de construção de sites modernos,
   - Página Home, 
   - Página Blog, 
-  - Intregração feita por cache, os dados só serão recarregados após determinado tempo.  
+  - Intregração feita por cache, os dados só serão recarregados após determinado período.  
 
 ## Instalação
 
@@ -81,9 +81,9 @@
 
 ## 📚 Pesquisar/Aprender
 
-  - Entender melhor como funciona o graphql e o graphcms,
+  - Entender melhor como funciona o graphql e o graphcms(Cmss no geral),
   - Aprender sobre queries.
-  - Estudar sobre o codegen,
+  - Estudar documentação codegen,
   - Aprender mais sobre as configurações iniciais de busca no cms,
   
 ## 📚 Desafios
