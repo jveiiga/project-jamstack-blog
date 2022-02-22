@@ -1,5 +1,9 @@
 <h1 align="center">Project Jamstack Blog - Projeto criado na maratona Rocketseat 🚀</h1>
-<h4 align="justify">A maratona Rocketseat é gratuita, voltada para profissionais, estudantes e para todo mundo que quer aprender mais sobre front-ende e programação. O projeto é um Blog, criado com Nextjs, Graphcms e tailwindcss. </h4>
+<p align="center">
+  <img alt="Logo do projeto" src="https://i.ytimg.com/vi/S5Qvi23VqaQ/maxresdefault.jpg" width="1200" height="350"/>
+</p>
+
+<h4 align="justify">A maratona Rocketseat é gratuita, voltada para profissionais, estudantes e para todo mundo que quer aprender mais sobre front-end e programação. O projeto é um Blog, criado com Nextjs, Graphcms e tailwindcss. </h4>
 
 <h2 align="center"><a href="https://project-jamstack-blog.vercel.app/">Clique aqui para ver meu projeto final!</a></h2>
 
